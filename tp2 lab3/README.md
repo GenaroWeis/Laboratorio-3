@@ -1,4 +1,4 @@
-Profe, pude resolver el error de varibles de entorno que tenia con maven gracias a la ayuda de Andoni. 
+-----------mensaje actual----------Profe, pude resolver el error de varibles de entorno que tenia con maven gracias a la ayuda de Andoni. 
 no hice ninguna modificacion en el codigo, se lo dejo en mi repo (el link esta subido al aula virtual) para 
 que lo pueda verificar, unicamente lo agregue a maven.
 
