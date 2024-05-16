@@ -1,3 +1,4 @@
+---------mensaje previo------------------------
 profe, le pido una disculpas por no subir el .jar. 
 tengo un problema con las instrucciones de la instalacion de maven que es 
 que no tengo la variable de entorno JAVA_HOME, trate de crearla manualmente 
